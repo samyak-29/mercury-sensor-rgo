@@ -75,35 +75,35 @@ Hg²⁺ + –SH (T&C-rGO) → Hg–S bond → ↓ conductivity → ↑ resistanc
 ### I-V Characteristics — Hg²⁺ Detection (2 ppb to 1 ppm)
 Clear stepwise decrease in current with increasing Hg²⁺ concentration, confirming concentration-dependent resistive response.
 
-![I-V Characteristics](results/mercury_iv.jpg)
+![I-V Characteristics](mercury%20iv.jpg)
 
 ---
 
 ### Dynamic Response — Real-Time Monitoring
 Base current at 2V: **1.8 mA**. After 20 ppb Hg²⁺ exposure: drops to **0.6 mA**. Response time: **19 seconds**.
 
-![Dynamic Response](results/ivt_mercury.jpg)
+![Dynamic Response](ivt%20mercury.jpg)
 
 ---
 
 ### Selectivity — Hg²⁺ vs Other Metal Ions
 T&C-rGO shows dominant response (~92%) to Hg²⁺ at 1 ppm, with significantly lower response to Cd²⁺, Pb²⁺, As³⁺, Na⁺ and K⁺.
 
-![Selectivity](results/Selectivity_towards_Hg.jpg)
+![Selectivity](Selectivity%20towards%20Hg.jpg)
 
 ---
 
 ### Sensitivity — dI/dC vs Concentration
 Hg²⁺ sensitivity of **100 µA/ppb** at 2 ppb — far exceeding all other ions tested.
 
-![Sensitivity](results/Sensitivity_TC-rGO.jpg)
+![Sensitivity](Sensitivity%20TC-rGO.jpg)
 
 ---
 
 ### Stability — 40 Days
 Sensitivity remains stable at ~100 µA/ppb over 40 days under identical experimental conditions — zero significant drift.
 
-![Stability](results/stability.jpg)
+![Stability](stability.jpg)
 
 ---
 
@@ -111,11 +111,11 @@ Sensitivity remains stable at ~100 µA/ppb over 40 days under identical experime
 
 **XRD** — Sharp GO peak at 10.48° (001) confirms oxidation. Broad T&C-rGO peak at 24.57° (002) confirms successful reduction and functionalisation.
 
-![XRD](results/cysteine_rgo_XRD.jpg)
+![XRD](cysteine%20rgo%20XRD.jpg)
 
 **FTIR** — Confirms presence of O–H, S–H, N–H and N=C=S functional groups, validating successful cysteine functionalisation.
 
-![FTIR](results/FTIR__1_.jpg)
+![FTIR](FTIR%20(1).jpg)
 
 ---
 
